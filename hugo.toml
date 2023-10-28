@@ -1,0 +1,4 @@
+baseURL = 'https://riddhiwho.in/'
+languageCode = 'en-us'
+title = 'riddhiwho'
+theme = 'ananke'
